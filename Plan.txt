@@ -1,1 +1,19 @@
-This is a plan
+Plan/details about PriceTracker
+
+High Level
+- Track prices per person for Carnival cruise
+- Track prices for utah flights
+- Send email updates every day
+
+
+Low Level
+- Python, HTML?, MySQL?, Ubuntu Server?
+- Will use many Python libraries such as: Matplotlib, beautifulsoup, smtplib, xml
+
+
+Future Endeavors:
+- Incorporate ML to make predictions
+
+
+Questions:
+- How will it store data for previous days' prices?
